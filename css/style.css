@@ -1,0 +1,55 @@
+.banner {
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('../assets/images/banner.jpg');
+    padding: 100px 0;
+}
+
+.about,
+.gallery,
+.contact {
+    margin: 80px 0;
+} 
+
+.about h4 {
+    font-weight: 500;
+}
+
+.about p {
+    font-size: 1.2em;
+}
+
+.gallery h4 {
+    font-weight: 500;
+    margin-bottom: -60px;
+}
+
+.carousel {
+    height: 60vh;
+}
+
+.carousel .carousel-item{
+    width: 500px;
+}
+
+.contact h4 {
+    font-weight: 500;
+    margin-bottom: 60px;
+}
+
+.contact img {
+    width: 60px;
+}
+
+.title {
+    margin-top: 80px;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+.footer-copyright {
+    padding: 15px 0;
+}
